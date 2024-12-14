@@ -1,9 +1,7 @@
 #include <iostream>
-#include <bitset>
 
 using std::cin;
 using std::cout;
-using std::bitset;
 
 int main() 
 {   // Ввод значений
